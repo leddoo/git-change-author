@@ -10,6 +10,7 @@ stupid simple python scripts to change the author of a git repo.
 usage:
 - change `author` in commit.py
 - `cd` into the repo where you want to change the author.
+- optional: `python3 path-to-this-repo/clean.py`
 - `python3 path-to-this-repo/collect-dates.py`
 - `git rebase --root --exec "python3 path-to-this-repo/commit.py"`
 - check `path-to-this-repo/diff.txt`
