@@ -1,0 +1,4 @@
+*.swp
+log-old.txt
+log-new.txt
+diff.txt
